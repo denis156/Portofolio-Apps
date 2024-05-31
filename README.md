@@ -4,8 +4,7 @@ MY-PFOLIO adalah aplikasi website portfolio dengan konten dinamis.
 </b></p>
 
 ## Instalasi
-- download zip <a href="https://github.com/rahmathidayat9/simple-portfolio/archive/master.zip">disini</a> 
-- atau clone : git clone https://github.com/rahmathidayat9/simple-portfolio.git
+- atau clone : git clone https://github.com/denis156/Portofolio-Apps.git
 
 ## Setup
 - buka direktori project di terminal anda.
@@ -40,12 +39,12 @@ Password : password
 ## Preview
 
 <b>- Home<b>
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(782).png?raw=true">
-<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(782).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/HEADER.png">
+<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/HEADER.png">
 </a>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(783).png?raw=true">
-<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(783).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/ABOUT.png">
+<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/ABOUT.png">
 </a>
 
 <a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(784).png?raw=true">
