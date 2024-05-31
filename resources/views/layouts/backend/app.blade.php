@@ -12,6 +12,8 @@
 
     <title>{{ $title ?? 'Dashboard' }}</title>
 
+    <!-- Favicons -->
+    <link rel="icon" href="{{ asset('img/LOGO 2 HD.jpg') }}" type="image/jpg">
     <!-- Custom fonts for this template-->
     <link href="{{ secure_asset('templates/backend/sb-admin-2') }}/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link
