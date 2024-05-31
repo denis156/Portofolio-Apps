@@ -5,12 +5,14 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>{{ $getHeader->title ?? 'MY-PFOLIO' }}</title>
+    <title>{{ $getHeader->title ?? 'Portofolio Apps' }}</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
+
     <!-- Favicons -->
-    <link href="{{ asset('templates/frontend/devfolio') }}/assets/img/favicon.png" rel="icon">
+    <link rel="icon" href="{{ asset('img/LOGO 2 HD.jpg') }}" type="image/jpg">
+    {{-- <link href="{{ asset('templates/frontend/devfolio') }}/assets/img/favicon.png" rel="icon"> --}}
     <link href="{{ asset('templates/frontend/devfolio') }}/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Vendor CSS Files -->
@@ -40,7 +42,7 @@
     <!-- ======= Header/ Navbar ======= -->
     <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand js-scroll" href="#page-top">{{ $getHeader->navbar_title ?? 'MY-PFOLIO' }}</a>
+            <a class="navbar-brand js-scroll" href="#page-top">{{ $getHeader->navbar_title ?? 'Portofolio Apps ' }}</a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
                 aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span></span>
@@ -71,9 +73,9 @@
             <div class="table-cell">
                 <div class="container">
                     <!--<p class="display-6 color-d">Hello, world!</p>-->
-                    <h1 class="intro-title mb-4">{{ $getHeader->up_text ?? 'I am Rahmat Hidayatullah' }}</h1>
+                    <h1 class="intro-title mb-4">{{ $getHeader->up_text ?? 'Denis Djodian Ardika' }}</h1>
                     <p class="intro-subtitle"><span
-                            class="text-slider-items">{{ $getHeader->down_text ?? 'Iam Student,Gamer' }}</span><strong
+                            class="text-slider-items">{{ $getHeader->down_text ?? 'I Am Full Stack Developer|' }}</span><strong
                             class="text-slider"></strong></p>
                     <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
                 </div>
@@ -102,13 +104,13 @@
                                         <div class="col-sm-6 col-md-7">
                                             <div class="about-info">
                                                 <p><span class="title-s">Name: </span>
-                                                    <span>{{ $getAbout->name ?? 'Rahmat Hidayatullah' }}</span></p>
+                                                    <span>{{ $getAbout->name ?? 'Denis Djodian Ardika' }}</span></p>
                                                 <p><span class="title-s">Profile: </span>
-                                                    <span>{{ $getAbout->role ?? 'Student' }}</span></p>
+                                                    <span>{{ $getAbout->role ?? 'Full Stack Developer' }}</span></p>
                                                 <p><span class="title-s">Email: </span>
-                                                    <span>{{ $getAbout->email ?? 'ratuaddil432@gmail.com' }}</span></p>
+                                                    <span>{{ $getAbout->email ?? 'aritroya41@gmail.com' }}</span></p>
                                                 <p><span class="title-s">Phone: </span>
-                                                    <span>{{ $getAbout->phone ?? '0859987263' }}</span></p>
+                                                    <span>{{ $getAbout->phone ?? '081524089375' }}</span></p>
                                             </div>
                                         </div>
                                     </div>
@@ -219,9 +221,9 @@
                                         <div class="socials">
                                             <ul>
                                                 <li><a href="javascript:void(0)"
-                                                        onclick="window.open('https://github.com/denis156')"><span
+                                                        onclick="window.open('https://www.instagram.com/denisa.013_/')"><span
                                                             class="ico-circle"><i
-                                                                class="ion-social-github"></i></span></a></li>
+                                                                class="ion-social-instagram"></i></span></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -244,7 +246,7 @@
                         <p class="copyright">&copy; Copyright
                             <strong>{{ $getFooter->copyright ?? 'Footer Copyright' }}</strong>. All Rights Reserved</p>
                         <div class="credits">
-                            Designed by <a href="https://www.instagram.com/denisa.013_/">Denis(Artelia)</a>
+                            Designed by <a href="https://github.com/denis156">Denis(Artelia)</a>
                         </div>
                     </div>
                 </div>
