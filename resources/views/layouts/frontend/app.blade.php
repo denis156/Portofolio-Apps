@@ -150,10 +150,10 @@
                         <div class="col-sm-12">
                             <div class="title-box text-center">
                                 <h3 class="title-a">
-                                    Portfolio
+                                    Portofolio
                                 </h3>
                                 <p class="subtitle-a">
-                                    Web Yang Pernah Dikerjakan
+                                   Beberapa Web Yang Pernah Dikerjakan
                                 </p>
                                 <div class="line-mf"></div>
                             </div>
