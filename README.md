@@ -89,4 +89,4 @@ Password : password
 </a>
 
 ## Author
-- Rahmat Hidayatullah
+- Denis Djodian Ardika (ARTELIA)

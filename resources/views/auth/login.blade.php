@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>MY-PFOLIO | Login</title>
+    <title>Artelia | Login</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{ secure_asset('templates/backend/sb-admin-2') }}/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
