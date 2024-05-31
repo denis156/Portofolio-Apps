@@ -1,6 +1,6 @@
 ## MY-PFOLIO
 <p><b>
-MY-PFOLIO adalah aplikasi website portfolio dengan konten dinamis.
+Portofolio Simple adalah aplikasi website portfolio dengan konten dinamis.
 </b></p>
 
 ## Instalasi
@@ -42,49 +42,49 @@ Password : password
 <a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/HEADER.png">
 <img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/HEADER.png">
 </a>
-
+<b>- About<b>
 <a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/ABOUT.png">
 <img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/ABOUT.png">
 </a>
-
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(784).png?raw=true">
-<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(784).png?raw=true">
+<b>- Contact<b>
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/CONTACT.png">
+<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/CONTACT.png">
 </a>
 <br><br>
 
 <b>- Login<b>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(786).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(786).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/LOGIN.png">
+	<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/LOGIN.png">
 </a>
 <br><br>
 
 <b>-Dashboard<b>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(787).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(787).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/DASHBOARD.jpeg">
+	<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/DASHBOARD.jpeg">
 </a>
 <br><br>
 
 <b>-Crud<b>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(788).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(788).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/CRUD%20USER.png">
+	<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/CRUD%20USER.png">
 </a>
 <br><br>
 
 <b>-Setting Layout<b>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(794).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(794).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/SETTING%20HEADER.jpeg">
+	<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/SETTING%20HEADER.jpeg">
 </a>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(796).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(796).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/SETTING%20ABOUT.jpeg">
+	<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/SETTING%20ABOUT.jpeg">
 </a>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(797).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(797).png?raw=true">
+<a href="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/SETTING%20FOOTER.jpeg">
+	<img src="https://github.com/denis156/Portofolio-Apps/blob/main/public/img/SETTING%20FOOTER.jpeg">
 </a>
 
 ## Author
