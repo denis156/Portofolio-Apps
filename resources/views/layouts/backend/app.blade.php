@@ -20,6 +20,7 @@
 
     <!-- Custom styles for this template-->
     <link href="{{ secure_asset('templates/backend/sb-admin-2') }}/css/sb-admin-2.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
     @yield('css-plugins')
     @yield('css-script')
@@ -59,7 +60,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; MY-PFOLIO {{ date('Y') }}</span>
+                        <span>Copyright &copy; Portofolio Simmple APP {{ date('Y') }}</span>
                     </div>
                 </div>
             </footer>
@@ -89,7 +90,7 @@
                 </div>
                 <div class="modal-footer">
                     <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                    
+
                     <form method="POST" action="/logout">
                         @csrf
                         <button class="btn btn-primary">Logout</button>
