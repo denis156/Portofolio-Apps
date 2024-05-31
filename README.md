@@ -1,6 +1,6 @@
-## MY-PFOLIO
+## Portofolio Apps
 <p><b>
-Portofolio Simple adalah aplikasi website portfolio dengan konten dinamis.
+Portofolio Apps adalah aplikasi website portfolio dengan konten dinamis.
 </b></p>
 
 ## Instalasi
